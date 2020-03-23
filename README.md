@@ -1,7 +1,6 @@
-Trabalho da disciplina de BD1
-Composição do grupo : João Victor Cardoso Baptista, Marcio Pinheiro Mendes 
+<h1>Composição do grupo: João Victor Cardoso Baptista, Marcio Pinheiro Mendes</h1> 
   
-  <h1>TEMA : Empresa de análises ambientais</h1>
+<h2>TEMA : Empresa de análises ambientais</h2>
 
 <b>A empresa presta serviços de análises ambientais de água, efluentes, alimentos e solo. As análises abrangem as áreas de microbiologia e físico-química em diversos estados do Brasil. Nos últimos anos, a empresa apostou na inovação, trazendo para o Brasil tecnologias exclusivas na areá de conservação de corpos hidricos e processos oxidativos avançados.</b>
 
