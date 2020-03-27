@@ -1,17 +1,35 @@
-<h1>Composição do grupo: João Victor Cardoso Baptista, Marcio Pinheiro Mendes</h1> 
+Turma: SI1N-A
+Componentes: João Victor Cardoso Baptista, Marcio Pinheiro Mendes 
   
-<h2>TEMA : Empresa de análises ambientais</h2>
+TEMA : Empresa de análises ambientais
 
-<b>A empresa presta serviços de análises ambientais de água, efluentes, alimentos e solo. As análises abrangem as áreas de microbiologia e físico-química em diversos estados do Brasil. Nos últimos anos, a empresa apostou na inovação, trazendo para o Brasil tecnologias exclusivas na areá de conservação de corpos hidricos e processos oxidativos avançados.</b>
+A empresa presta serviços de análises ambientais de água, efluentes, alimentos e solo. As análises abrangem as áreas de microbiologia e físico-química em diversos estados do Brasil. Nos últimos anos, a empresa apostou na inovação, trazendo para o Brasil tecnologias exclusivas na areá de conservação de corpos hidricos e processos oxidativos avançados.
 
-<h3>ANÁLISES AMBIENTAIS</h3>
-Os laboratórios da empresa são equipados para atender desde as análises mais simples como cor, turbidez e sólidos totais até complexas análises instrumentais como a cromatografia (HPLC, IC, GC). Toda a metodologia empregada segue os padrões definidos pela AWWA descritos no Standard Methods for Examination of Water and Wastewater.
+A empresa conta com um setor comercial, que é o responsável por vender ou negociar serviços com os clientes. Conta também com um setor de amostragem, que é o responsável por visitar o local do cliente para coletar amostras. As amostras são levadas de volta à empresa para dar entrada no laboratório. Assim que é feita a entrada, elas são distribuídas para as diferentes análises.
 
-<h3>CONSERVAÇÃO DE CORPOS HÍDRICOS(CCH)</h3>
-Na área de conservação de corpos hídricos, a empresa conta com tecnologia sueca de máquinas anfíbias multifuncionais. Uma única máquina pode ser equipada com diversos implementos, dependendo da função desejada. Além disso, por ser anfíbia, pode se movimentar tanto em terra quanto na água. Isso permite a realização de trabalhos, tais como: limpeza de vegetação em PCH's, limpeza de margens de rios, remoção de lodo em lagoas de ETE's, entre outros.<br>
-<a href="https://doroteamekaniska.se/">Clique aqui para acessar o site da empresa parceira.</a>
+Os dois novos setores da empresa trabalham de forma um pouco diferenciada. O setor de CCH não trabalha diretamente com amostras, mas sim com prestação de serviços diretamente no local do cliente. Em caso de necessidade de suporte, a equipe pode entrar em contato direto com o fornecedor da tecnologia.
 
-<h3>TRATAMENTO DE ÁGUA E EFLUENTES(TAE)</h3>
-Já na área de tratamento de água e efluentes, a empresa conta com tecnologia dos EUA. A proposta é aplicar o ferrato de sódio VI para realização de tratamento oxidativo avançado. Diferente de outros produtos químicos como o cloro, esse sal é considerado uma tecnologia que não agride o meio ambiente, uma vez que seu subproduto é o ferro III. Além disso, seu potencial oxidativo é de +2.20V, ultrapassando o ozônio, que já é amplamente utilizado em diversas aplicações. O foco é a utilização do Fe VI para o tratamento de água ou efluentes em situações que o sistema convencional não seja capaz de resolver. Entretanto, existe a possibilidade de utilização até para tratar água de consumo humano. Essa versatilidade é uma das apostas da empresa no emprego dessa tecnologia.
-Para possibilitar a aplicação desse composto, a empresa importa uma máquina que faz a síntese do composto no local de aplicação e ainda permite, através da mesma máquina, dosar o produto diretamente na linha de tratamento pré-existente. A máquina pode ser customizada de acordo com a necessidade da planta, com capacidade de tratamento de até 227000 m³ por dia.<br>
-<a href="ferratetreatment.com">Clique aqui para acessar o site da empresa parceira.</a>
+O setor de TAE trabalha com amostras, entretanto estas são separadas das demais amostras do laboratório, embora sejam feitas as mesmas análises. Em caso de necessidade de suporte, a equipe pode entrar em contato direto com o fornecedor da tecnologia.
+
+- O setor comercial da empresa pode ter contratos com vários clientes mas pode não ter nenhum. Cada cliente obrigatoriamente tem que estar ligado ao setor comercial da empresa. O mesmo setor comercial entra em contato com os clientes do TAE e CCH, nas mesmas condições.
+
+- Cada cliente pode, opcionalmente, estar relacionado a diversas amostragens. Entretanto, cada amostragem se relaciona uma única vez com cada cliente, obrigatoriamente.
+
+- Um amostragem tem obrigatoriamente um único amostrador. Entretanto, cada amostrador, opcionalmente, pode estar relacionado a várias amostragens.
+
+- Cada amostragem gera obrigatoriamente, uma única amostra. Uma mesma amostra não pode estar relacionada a mais de uma amostragem, devendo, obrigatoriamente, estar relacionado com alguma.
+
+- Uma amostra se relaciona obrigatoriamente com pelo menos uma análise, mas pode se relacionar com várias. Umá análise, opcionalmente, pode se relacionar com várias amostras.
+
+- Um analista obrigatoriamente se relaciona com pelo menos uma análise, mas pode se relacionar com várias. Uma análise está relacionada, obrigatoriamente e unicamente a um analista.
+
+- Um analista, opcionalmente pode estar relacionado a vários reagentes. Um reagente pode, opcionalmente, estar relacionado a vários analistas.
+
+- Um fornecedor, obrigatoriamente, pode fornecer vários reagentes. Um reagente, obrigatoriamente, pode ser fornecido por mais de um fornecedor.
+
+- Para os setores TAE ou CCH: um cliente se relaciona obrigatoriamente e unicamente com o setor. O setor, opcionalmente pode se relacionar com vários clientes.
+
+- Para a assistência técnica, o funcionamento é igual para os dois setores: o setor, opcionalmente pode estar relacionado a diversas assistências. Cada assistência, obrigatoriamente, se relaciona uma única vez com o setor.
+
+- O cliente TAE, amostrador TAE, amostragem TAE e amostra TAE se relacionam de forma análoga ao cliente, amostrador, amostragem e amostra do laboratório.
+
